@@ -1,7 +1,8 @@
 import type {NextPage} from "next";
 
+
 const Home: NextPage = () => {
-  return <div>Hello future</div>;
+  return <div>Hello Por Index</div>;
 };
 
 export default Home;
